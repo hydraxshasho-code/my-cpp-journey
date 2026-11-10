@@ -21,10 +21,9 @@ union Data {
 
 int main(){
 
-    enum Color { RED, GREEN, BLUE };
+    enum Color { RED, GREEN, BLUE };// enum is a user-defined data type that consists of integral constants.
     cout << "Color RED: " << RED << endl;
-    cout << "Color GREEN: " << GREEN << endl;
-    cout << "Color BLUE: " << BLUE << endl;
+    cout << "Color GREEN: " << GREEN << endl; 
     S s1;
     s1.id = 1;
     s1.name = "John";
