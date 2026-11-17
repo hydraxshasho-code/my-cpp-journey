@@ -52,5 +52,5 @@ int main() {
     cout << "The value of y is: " << y << endl;
 
     return 0;
->>>>>>> a302a48e5405a481d4bb7034ae64b62bf8e11f81
+
 }
