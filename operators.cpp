@@ -69,6 +69,5 @@ int main() {
     cout<< "the value of logical or operator is: " << ((a==b) || (a<b)) << endl;
     cout<< "the value of logical not operator is: " << (!(a==b)) << endl;
 
-    return 0;g
->>>>>>> a302a48e5405a481d4bb7034ae64b62bf8e11f81
+    return 0;
 }
